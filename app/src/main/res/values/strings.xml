@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Travel Lanka</string>
+    <string name="Home">Home</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_frawer_open">Open Navigation Drawer</string>
+    <string name="navigation_frawer_close">Close Navigation Drawer</string>
+    <string name="web_client_id">586115584837-no4k408k5k22ad07456uehd8v6s6ivph.apps.googleusercontent.com</string>
+    <string name="direction_api_key">AIzaSyBe9zmA0z-0Ji2o4VLrF_oEzd-MVmQ9MiE</string>
+    <string name="facebook_app_id">801101034398796</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">fa780667c1f79c97a060665504fe9780</string>
+    <string name="google_map_key">AIzaSyBAMPYjFJ3HBc6-FWViuJA5xxGmS0BeiJ0</string>
+    <string name="title_activity_nearbyplace">nearbyplace</string>
+
+</resources>

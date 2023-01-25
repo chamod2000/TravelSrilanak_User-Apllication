@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/drawable/customicon.xml" value="0.17" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1545" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/drawable/rounded_corner.xml" value="0.1545" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/drawable/sendmag.xml" value="0.1545" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/drawable/start_travel.xml" value="0.149" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/drawable/text_area.xml" value="0.1545" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_about_us.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_broadcast_reciver.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_category_view.xml" value="0.22" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_climate.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_climateview.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_culture.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_culture_single_view.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_hoteltesting.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_login_user.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_map.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_maplocation.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_naerbylocation.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_notworking.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_place_lite_view.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_places_list.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_single_location_view.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_single_place_view.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_splish.xml" value="0.21" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_still_progrss.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_test_acitivity.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/activity_testing.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/culture_row.xml" value="0.22" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/drawer_layout_header.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/image_slider_layout_item.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/layout.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/place_row.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/layout/side_nav_header.xml" value="0.1718683197947841" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/UserTravelLanka/app/src/main/res/menu/side_nav_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

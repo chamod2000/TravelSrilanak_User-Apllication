@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "586115584837",
+    "project_id": "travellankaapp",
+    "storage_bucket": "travellankaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586115584837:android:59a813e642b49ddab5642c",
+        "android_client_info": {
+          "package_name": "com.jiat.travelsrilanka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586115584837-1r1humt66c0h8dtc51iehe6q97v579ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiat.travelsrilanka",
+            "certificate_hash": "12f912fbe47e5a32c73c8bad58a31b98815708d2"
+          }
+        },
+        {
+          "client_id": "586115584837-no4k408k5k22ad07456uehd8v6s6ivph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSenH8y4WVR-WRWo-Survs_IqvzxjBkAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586115584837-no4k408k5k22ad07456uehd8v6s6ivph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586115584837:android:d825d5a1f32b13a9b5642c",
+        "android_client_info": {
+          "package_name": "com.jiat.usertravellanka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586115584837-st598ie17j9qm5srn779ith2bvdf33k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiat.usertravellanka",
+            "certificate_hash": "12f912fbe47e5a32c73c8bad58a31b98815708d2"
+          }
+        },
+        {
+          "client_id": "586115584837-no4k408k5k22ad07456uehd8v6s6ivph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSenH8y4WVR-WRWo-Survs_IqvzxjBkAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586115584837-no4k408k5k22ad07456uehd8v6s6ivph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
